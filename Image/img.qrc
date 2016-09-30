@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>town.png</file>
+        <file>trees_plants_rocks.png</file>
+        <file>trees_plants.png</file>
+        <file>trees.png</file>
+        <file>zcowxMuE.png</file>
+    </qresource>
+</RCC>
